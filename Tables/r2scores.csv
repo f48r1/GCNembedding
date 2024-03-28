@@ -1,0 +1,9 @@
+Endpoint,r$^2$ embedding 1,r$^2$ embedding 2
+Chromosomal aberration,0.97,0.98
+Mutagenicity,0.96,0.95
+Carcinogenicity,0.95,0.95
+Developmental toxicity,0.96,0.96
+Skin irritation,0.97,0.97
+Estrogenicity,0.88,0.91
+Androgenicity,0.94,0.94
+Hepatoxicity,0.99,0.99

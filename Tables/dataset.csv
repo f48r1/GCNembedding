@@ -1,0 +1,9 @@
+Endpoint,non-toxic,toxic
+Chromosomal aberration,254,223
+Mutagenicity,339,331
+Carcinogenicity,486,263
+Developmental toxicity,135,684
+Skin irritation,206,97
+Estrogenicity,1440,89
+Androgenicity,1467,197
+Hepatoxicity,472,579
